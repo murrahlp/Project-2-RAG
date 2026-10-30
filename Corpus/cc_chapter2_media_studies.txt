@@ -1,0 +1,283 @@
+id: cc_chapter2_media_studies
+title: Course Catalog Majors & Minors Chapter 2 Media Studies
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 122-126
+retrieved: 2026-10-29
+------------------------------------------------------------
+MATH 385. Mathematics Colloquium (.5). Attendance required. Students select a faculty guide to assist
+them in learning to research a mathematical topic, prepare preliminary drafts of a paper, fnalize the paper
+using Latex typesetting software, and then present the results of the paper to the class in a 50-minute talk.
+Class includes talks by students, some faculty, and often guest speakers. The course may be taken more than
+once. (CP) Ofered each semester. Prerequisite: Mathematics 275, junior standing.
+
+MATH 390. Special Project (.25 - 1). Individual guided investigations of topics or problems in mathematics.
+Since such investigation is important to the development of mathematical maturity, the department
+encourages each major to do at least one such project. Prerequisite: approval of the project by the
+department chair; sophomore standing.
+
+MATH 395. Teaching Assistant (.5). Work with faculty in classroom instruction. Graded credit/no credit.
+
+MATH 396. Teaching Assistant Research (.5). Course and curriculum development projects with faculty.
+
+Media Studies
+The media studies major brings together coursework in media production and theory, ofering students a
+range of technical skills and theoretical tools that will help them become active producers and thoughtful
+consumers of media.
+
+The major ofers students an opportunity to produce original, creative work, and to gain practical experience
+through internships, entrepreneurship, and work experience. It also cultivates media literacy by requiring
+students to examine various media phenomena within the context of cultural, economic, political, and
+technological developments from around the globe.
+
+Courses in media studies skirt the boundaries of sociology, anthropology , art, history , flm studies,
+environmental studies, and political science, and ofer opportunities to engage with a range of prominent
+critical traditions within the humanities, including postcolonial studies, critical race theory, feminist and
+gender studies.
+
+Media Studies Faculty
+• Joy Beckman
+• Joe Bookman
+• Christopher Fink
+• Shawn Gillen
+• Kosta Hadavas
+• Cullyn Murphy
+• Rick Rose
+• Mats Rudels
+• Gina T’ai
+• George Williams
+
+Media Studies Major (10 units)
+1. Two units of introductory Media Studies:
+a. Media Studies 100, 110 or 150.
+b. Media Studies 125.
+
+2. Two units of media production chosen from: Art 117, 125; English 228; Media Studies 155, 215, 225, 251,
+300, 301; Performing and Applied Arts 260.
+3. Three units of advanced Media Studies coursework:
+a. One unit chosen from: Media Studies 250, 270, 271, 272, 350, 351, 370.
+b. Two additional upper-level units chosen in consultation with a media studies advisor.
+
+2. Two supporting units of media studies coursework chosen in consultation with a media studies advisor.
+3. One unit capstone approved by a media studies advisor.
+4. One media internship or applied experience in media (which may include creative projects completed
+over the summer), chosen in consultation with a media studies advisor.
+Visual Studies Minor (6 units)
+1. One unit of Media Studies 150.
+2. One unit of Art, Media Studies 155, or Media Studies 251.
+3. Three units of Art History or Media Studies 250. One of the three units may be substituted with a course
+from another department upon advisor’s approval.
+4. One unit of Media Studies 390, Art History 390, or PRAX 200: Special Project or Internship related to
+Visual Studies.
+• The Special Project or internship (90 hours) must include some form of public presentation such as a
+symposium presentation.
+• This requirement can be substituted with Media Studies 250, 350, or 370, if the student has completed
+a capstone class with a signifcant visual studies component.
+
+•
+Media Studies Courses
+MDST 100. Introduction to Film Art (1). Exploring the work of flmmakers from around the globe, this
+introductory-level course examines the formal elements of flmmaking as well as the various forces—political,
+technological, cultural, and economic—that give rise to specifc kinds of cinematic art. The course format
+combines lectures, discussions, student presentations, and flm screenings. (5T) Ofered each fall.
+
+MDST 105. Public Speaking (1). This introductory course serves many purposes, including providing
+students with an understanding of the process of human communication in public situations. It also provides
+students with an appreciation for the complexity of the communication process, and at the same time,
+provides them with an understanding of the choices facing the public communicator. In addition to the
+theoretical framework, there is a practical component as well, since students will implement the knowledge
+they have gained as they present and evaluate public presentations throughout the course. (2A)
+
+MDST 110. Concepts of Media: An Introduction to Media Theory (1). This course introduces students to
+core concepts, debates, and overarching theoretical concerns that are central to the feld of media studies.
+It explores a range of topics including the complex relationship between mass media and democracy,
+the diverse ways in which people try to understand “popular culture,” concepts of ideology and political
+economy, the consequences of global media industry consolidation, issues of gender, race, sexuality, and
+media representation, and theories of technology as they relate to media. (5T) Ofered each spring.
+
+MDST 125. Introduction to Journalism (1). Basic techniques of reportage, from researching to writing to
+editing. Emphasis on writing for newspapers, though other print and broadcast media also will be examined.
+Written assignments may include news stories, book and movie reviews, interviews, human interest stories,
+feature articles, and editorials. (Also listed as Journalism 125.) (2A) Ofered each fall.
+
+MDST 150. Introduction to Visual Studies (1). Introduction to visual studies explores how images structure
+the world we inhabit by shaping how we perceive and consume various identities, as well as how we come
+to understand and occupy our built and natural environment. This course builds visual literacy skills through
+an examination of traditional forms such as paintings, sculpture, and architecture, and more popular and
+contemporary forms such as flm and video. (5T)
+
+MDST 155. Introduction to Nonfction Video (1). This introductory-level course examines the art and practice
+of nonfction video production, focusing specifcally on the process of making documentaries. Students
+acquire basic audio and video production skills—videography, video editing, lighting, sound recording, and
+sound design—and will apply these skills in the creation of their own, original nonfction video projects.
+Students will also examine some of the legal and ethical issues that directors of documentary typically
+
+encounter, as well as some of the social and political roles that documentaries play within our society. (Also
+listed as Journalism 155.) (2A) Ofered every other year.
+
+MDST 166. Introduction to Computational Literary Analysis (1). Is it possible to count, or quantify, the
+qualitative features of writing, whether a poem, a newspaper article, or a novel? In this course students are
+introduced to the feld of computational literary analysis as a subfeld of the digital humanities. They learn
+how humanists use quantifable data and metadata; and, they learn to formulate research problems and
+questions that lead to a computational approach to literary/textual analysis. Topics covered: the Google
+Ngram Viewer and Ngram Dataset, basic Python programming; and the functionality of the NLTK (Natural
+Language Toolkit) and SpaCy Python libraries. Prerequisites: none.
+
+MDST 170. Introductory Topics in Media Studies (.25-1). This introductory course addresses a variety of
+media-related topics that are not taught as regular course oferings. Topics vary from semester to semester.
+May be repeated for credit if topic is diferent. The 2A and 5T domained versions of this course are,
+respectively, Media Studies 171 and 172. Prerequisites: none.
+
+MDST 202. Theories of Contemporary Performance and Media (1). “Art happens when you intend it to
+happen. It happens when you leap with intention—The act is the point, more so now than ever,” says Anne
+Bogart. This course explores theories about the creative inspiration, the performative instinct, the creation of
+meaning, the artist’s relationship with the audience, the politics of performance, and the “rules” of narrative,
+spectacle, and performance. The goal is to examine the role of the performance artist in a postmodern
+world. Throughout the class, students explore interdisciplinary approaches to stretch the boundaries of their
+imagination. Those interested in media will gain insights to theories critical to understanding and critiquing
+media. (5T) (Also listed as Performing and Applied Arts 221.) Ofered every fall. Prerequisite: sophomore
+standing and must have completed at least 2 theatre and dance courses, or consent of instructor. For media
+studies majors, sophomore standing is necessary.
+
+MDST 215. Screenwriting for Narrative Film (1). Course Description: This course introduces students to the
+art and craft of screenwriting. Students will analyze the formal elements of screenplays and learn essential
+mechanics of writing for the screen. They also begin the process of writing their own original screenplay.
+Ofered each spring. (Also listed as English 215.) Prerequisite: English 205 or Media Studies 100, and junior
+standing; or permission of instructor.
+
+MDST 225. Magazine Feature Writing (1). A survey of writing modes associated with print journalism, with
+primary emphasis on magazine feature writing. Assignments may include profles, personal essays, travel
+articles, interviews, biographies, reviews, satire, and extended feature articles with a research component.
+(2A) (Also listed as Journalism 225.) Ofered each spring. Prerequisite: Journalism 125/Media Studies 125 is
+recommended.
+
+MDST 229. Voice for Stage and Screen (1). Whether you plan to ofer a play-by-play on air or want to be
+understood on the stage, this course increases your awareness and control of your own vocal life. Students
+learn techniques and exercises that facilitate vocal development and control. Voice for Stage and Screen
+introduces a variety of vocal training systems (Linklater, Berry, Houseman, and Skinner) to help students
+study their whole voice. This course covers: International Phonetic Alphabet, dialects, classical verse,
+character voices, Elevated Standard speech, vocal work with a microphone, and exercises that assist in
+gaining vocal control. (Also listed as Performing and Applied Arts 229.) Ofered occasionally.
+
+MDST 250. Topics in Visual Studies (.5, 1). This topical course ofers students an opportunity to engage
+with questions in visual studies at an intermediate level through various disciplinary lenses including literary
+studies, art history, and flm studies. Topics will vary from semester to semester. May be repeated for credit if
+topic is diferent. Ofered every year.
+MDST 251. The Video Essay (1). This course examines the video essay, an emerging form of digital art and
+academic discourse, which has lately come into its own as a powerful new mode of media expression. First
+and foremost, it explores ways in which the literary essay—a form that dates back centuries, if not millen-
+nia—has come to inform various cinematic and videographic impulses. It provides students an opportunity
+to develop skills as writers, video makers, and cultural critics. (2A) (Also listed as Journalism 251 and English
+224.) Ofered every other year.
+
+MDST 263. Nightmare Japan in Translation (1). In Japan, since the late 19th century, the rapid changes
+associated with post-Meiji modernization have been, at least on some level, linked to the anxiety and
+alienation of the modern individual. As focus shifted from the rural to the urban, from the family and village
+to the individual, and from the domestic to the international, expressions of the unease people felt about
+the rapidity and acuteness of these changes proliferated. Starting with Japanese fction produced by early
+20th-century writers and continuing into the present, this courses looks at how popular fction and flm in
+Japan have portrayed the “horror” of the modern. Taking up both conventional horror flms/stories as well
+as seemingly innocuous tales that depict the horror of everyday life, students focus their discussions on how
+issues–such as the breakdown in traditional family structures, dislocation from traditional homes (furusato),
+environmental degradation, and increased racial inequality and poverty–that have coincided with Japan’s
+emergence as a world leader are depicted in fction and popular culture and consider how these fctional
+representations simultaneously envision, verbalize, and confront various societal ills. Taught in English. (5T).
+Prerequisites: none. Also listed as Japanese 263.
+
+MDST 264. History and Popular Culture in Japan in Translation (1). Popular representations of the past are
+everywhere in Japan, from cell phone charms, to manga, to television dramas, to video games, to young
+women dressed as their favorite historical fgures hanging out in the hip Harajuku district. But, how does
+this cycle of production and consumption infuence the way well-known stories are told? And, how does this
+mass revisiting of the past impact the way people think about history and what it means to be Japanese?
+Looking at the intersections of Japanese history and popular culture, this courseseeks to answer these
+questions. By analyzing 20th- and 21st-century popular fction and flm as well as popular culture in Japan,
+students consider how and why constantly changing narratives of the past can impact the present. (5T).
+Prerequisites: none. Also listed as History 284 and Japanese 264.
+
+MDST 270. Intermediate Topics in Media Studies (.25-1). This intermediate course addresses a variety
+of media-related topics that are not taught as regular course oferings. Topics will vary from semester
+to semester. May be repeated for credit if topic is diferent. Ofered every year. The 5T and 2A domained
+versions of this course are, respectively, Media Studies 271 and 272.
+
+MDST 276. Multidisciplinary Arts and Media Collaboration (.25 - 1). This topics course leads students
+through exploratory performance and installation projects. Students who identify with any creative practice
+(such as vocalists, instrumentalists, sound artists, poets, visual artists, multimedia artists, choreographers,
+programmers, etc.) share a collaborative environment in which they perform installations and pieces created
+together. The course may include weekly readings on devised performance, community development, and
+collaboration and/or work through structured exercises and improvisations to develop a group-specifc
+creative language. The course culminates in a fnal public presentation of the collaborative creative work. All
+media styles and levels of experience are welcome. Students may repeat this course up to a total of 2 units
+of credit. (2A) (Also listed as Art 176 and Performing and Applied Arts 276.)
+
+MDST 300. Introductory Practicum in Broadcast Television (1). The frst course in a two-part practicum
+experience, this class ofers students an opportunity to help run the community access television station
+that operates out of CELEB. Students will learn the basic technical skills required to produce and broadcast
+community access television, and will assist in the production of various local programs. (2A) Ofered every
+semester.
+
+MDST 301. Advanced Practicum in Broadcast Television (1). The second course in a two-part practicum
+experience, this class ofers students an opportunity to help run the community access television station
+that operates out of CELEB. Students learn the basic technical skills required to produce and broadcast
+community access television, and assist in the production of various local programs. (2A) Ofered every
+semester. Prerequisite: Media Studies 300.
+
+MDST 350. Media and the Anthropocene (1). Many scientists and researchers across the globe now agree
+that the Anthropocene—the word proposed to describe a new geological epoch defned by the earth-
+shaping consequences of human activity—has arrived. This course explores the media landscape of the
+Anthropocene, focusing on various ways in which flmmakers, podcasters, and other digital storytellers are
+attempting to make sense of the challenges that humans face during this moment of profound geological
+and ecological change. In addition to examining the work of others, students are required to produce their
+own digital media projects, using a variety of audio, video, and web-based production tools. (2A) (Also listed
+
+as Environmental Studies 260 and Journalism 350.) Ofered every other year. Prerequisite: junior or senior
+standing or permission of instructor.
+
+MDST 351. Directing Fiction Film (1). This course explores the craft of narrative fction flmmaking.
+Through a series of technical exercises and creative assignments, students cultivate their skills as writers
+and directors, and develop the skills required to plan and execute a flm project through various stages of
+production. (2A) Ofered every other year. Prerequisite: introductory-level media studies production course
+or permission of instructor.
+
+MDST 370. Advanced Topics in Media Studies (1). This advanced course, designed as a capstone experience
+for media studies majors, addresses a variety of media-related topics that are not taught as regular course
+oferings. Topics will vary from semester to semester. May be repeated for credit if topic is diferent. (CP)
+Ofered every year.
+
+MDST 390. Special Project (.25 - 1). Individual work under faculty supervision with evaluation based on
+appropriate evidence of achievement. Prerequisite: sophomore standing or consent of instructor.
+MDST 395. Teaching Assistant (.5). Work with faculty in classroom instruction. Graded credit/no credit.
+Medieval Studies
+The minor in medieval studies ofers students the opportunity to acquire an understanding of the historical,
+cultural, and social forces that shaped Western civilization during the Middle Ages. Its primary goal is to
+foster a holistic appreciation of European culture in the period between the end of antiquity and the rise of
+the early modern nationstates.
+The culture of the Middle Ages continues to captivate the modern imagination, and opportunities for
+original, creative, and multi-disciplinary research abound, even at the undergraduate level. In addition, the
+evolution of the mental, physical, ecclesiastical, and political “maps” of Europe in this period stretches our
+understanding of cultural identity and expands our perspective of how such identity was constituted in the
+pre-national, pre-modern era. The study of this historical period is not limited to events and developments in
+European history alone—we encourage students to explore ways that medieval Europeans came into contact
+with other cultures and how people of various religious perspectives negotiated their spiritual and political
+boundaries.
+Medieval studies is inherently interdisciplinary because the texts, cultures, and languages it encompasses
+are not represented by any single department or feld of study. The divisions of academic felds as we know
+them today do not appropriately defne or describe this period of history when the border between history
+and literature was indistinct and when music and the visual arts more often served ideological, rather than
+purely aesthetic, social, and personal functions.
+
+An interdisciplinary minor focused on medieval studies is an especially ftting way to help students approach
+the rich diversity of cultures and languages encompassed by medieval civilization and to explore the decisive
+impact that such multiplicity had on modern Western culture. In addition, it provides a fruitful counterpoint
+to the conventional study of languages and civilizations oriented according to modern cultural and linguistic
+divisions. This minor serves to introduce students to a range of disciplinary and interdisciplinary approaches
+to the past in order to enhance their understanding of how knowledge is organized today.
+The minor’s curricular contribution is two-fold: First, to give undergraduate students who have an interest
+in medieval studies the beneft of advising about available courses and resources both on- and of-campus;
+second, to allow those undergraduates who complete substantial work in medieval studies to enhance
+their applications to graduate programs (in part by ensuring that they will have embarked on the requisite
+language study).
+
+Medieval Studies Faculty
+
+• Joseph P. Derosier
+• Kosta Hadavas
+• Ellen E. Joyce

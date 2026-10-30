@@ -1,0 +1,172 @@
+id: cc_chapter2_geology
+title: Course Catalog Majors & Minors Chapter 2 Geology
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 91-93
+retrieved: 2026-10-29
+------------------------------------------------------------
+7. Students majoring in geology may choose to receive the Bachelor of Science degree rather than the
+Bachelor of Arts degree by completing a minimum of 4 units in biology, chemistry, computer science,
+mathematics, and/or physics.
+
+Geology Minor (5 units)
+1. Five departmental units:
+a.Geology 100 or 110.
+b. Four additional units from 100-, 200-, or 300-level geology courses, including no more than one non-
+lab course.
+
+2. Declared minors in geology are invited to elect Geology 171 and are encouraged to participate in the
+spring feld excursion.
+Geology Courses
+GEOL 100. Earth: Exploring a Dynamic Planet (1). Exploration of geologic processes that shape our
+dynamic planet and how they interact as a system. Topics include plate tectonics, deep time, climate,
+volcanoes, earthquakes, streams and groundwater, glaciers, natural resources, and the interactions between
+geologic processes and human populations. The class emphasizes both global systems and the geology of
+southern Wisconsin. We focus on using scientifc methods to decipher complex interactive processes and
+developing skills for observation and analysis in the feld and laboratory. One Saturday or Sunday feld trip.
+Students who have credit for Geology 110 may not take this course for credit. (4U) Ofered yearly.
+
+GEOL 105. Evolution of the Earth (1). Examination of a wide variety of scientifc tools and datasets allows us
+to reconstruct the history of the Earth. Information from rock associations, fossils, stratigraphic correlations,
+geochemistry, and radioactive-age determinations forms a logical picture of the co-evolution of the Earth’s
+lithosphere, hydrosphere, atmosphere, and biosphere. The human dimension of historical geology is revealed
+in tracing the development of the concept of time, and through discussions of the rate and magnitude of
+human-induced environmental change. Lecture, discussion, laboratory, feld study. One Saturday or Sunday
+feld trip. (4U) Ofered yearly.
+
+GEOL 110. Environmental Geology and Geologic Hazards (1). Application of geologic principles to help in
+understanding the response of our environment to natural and anthropogenic forces of change, and proper
+constraints we should exercise in being good stewards of the Earth. Natural resources (water, soils, climate,
+and energy), fooding, volcanic activity, and earthquakes are among the topics considered, with emphasis on
+current events. Lecture, discussion, laboratory, feld study. One Saturday or Sunday feld trip. (4U) Ofered
+yearly.
+
+GEOL 171. Field Excursion Seminar (.25). The geology, geography, history, and environment of a region to
+be studied during an extended feld excursion. A student may take the seminar for credit more than once.
+Graded credit/no credit at discretion of instructor. There is an additional fee associated with this course.
+Ofered yearly. Prerequisite or co-requisite: Geology 100 or 105 or 110 or 115 or with permission of instructor.
+This course is a prerequisite for the May Field Excursion (Geology 172).
+
+GEOL 172. Field Excursion (.25). The geology, geography, history, and environment of a region to be studied
+during an extended feld excursion. A student may take the excursion for credit more than once. Graded
+credit/no credit at discretion of instructor. There is an additional fee associated with this course. Ofered
+yearly. Prerequisite or co-requisite: Geology 100 or 105 or 110 or 115 or with permission of instructor, and
+Geology 171 in the semester preceding the excursion.
+
+GEOL 200. Mineralogy (1). The study of minerals, including their composition, properties, occurrence, and
+classifcation. Lectures and laboratory include discussion of basic crystallography and crystal chemistry, and
+introduction to optical mineralogy and the properties and occurrences of common rock-forming minerals.
+Lecture, laboratory, feld study. One four-day feld trip during fall break. (4U) Ofered each fall. Prerequisite
+or co-requisite: Geology 100, 105, 110 or Chemistry 220.
+
+GEOL 205. Petrology (1). The study of rocks, including their composition, classifcation, and tectonic setting.
+Lectures and laboratory focus on the processes that control the formation of rocks in the context of plate
+tectonics and planetary evolution. Lecture, laboratory, feld study. Ofered alternate spring semesters.
+Prerequisite: Geology 100 or 110, and 200.
+
+GEOL 210. Paleontology (1). The history of life from its origins to the present. The preservation, distribution,
+and identifcation of invertebrate fossils as well as selected vertebrate and plant fossils. Competing
+evolutionary theories are evaluated in the perspective of geologic time. Fossils are studied as once-living
+organisms that were adapting to changing environments and part of a biological community. Lecture,
+discussion, laboratory, and feld study. One weekend feld trip. (Also listed as Biology 210.) Ofered alternate
+years. Prerequisite: Geology 100, 105, or 110 or Anthropology 120 or 1 course in Biology.
+
+GEOL 215. Field Geology (1). Techniques of collecting, recording, and presenting geologic data; use of
+surveying techniques, the Brunton compass, GPS and GIS, and hydrologic feld methods; interpretation of
+data as plotted on maps and sections. Field observations and measurements are synthesized with maps and
+cross-sections in written and oral reports. Lecture, laboratory, feld study. (4U) Ofered in alternate years.
+Prerequisite: Previous or concurrent 100-level geology course highly recommended.
+
+GEOL 220. Structural Geology (1). Mechanical principles applied to folds, faults, joints, igneous plutons,
+and secondary structural features of the Earth. Laboratory study of deformative processes by models and
+experiments, and analysis of structures by graphical, mathematical, and computer techniques. Lecture,
+laboratory, feld study. One Saturday or Sunday feld trip. Ofered alternate spring semesters. Prerequisite:
+Geology 100 or 110 and 200.
+
+GEOL 230. Sedimentology and Stratigraphy (1). Students learn about the origin, distribution, deposition,
+and lithifcation of common rock-forming sediments. Lithologic knowledge is combined with fossil and
+geochemical data to interpret depositional age and environment. Principles of stratigraphy are used to
+correlate surface/subsurface sedimentological data and construct cross-sections. Sedimentologic and
+stratigraphic concepts are utilized to analyze depositional basins. Students learn course concepts through
+lectures, laboratories, and feld work. One weekend feld trip. Ofered alternate years. Prerequisite: previous
+or concurrent 100-level geology course highly recommended.
+
+GEOL 235. Surface Processes and Landforms (1). This course focuses on the origin and development of
+landforms created by fuvial, glacial, eolian, and karst processes. In addition, the relationships of landforms
+to underlying geologic structures and the history of geologic and climate changes as recorded by surface
+features are explored. Landscapes and surface processes are analyzed using air photos and topographic
+maps as well as feld-mapping techniques and geographic information systems. One Saturday or Sunday
+feld trip. (4U) Ofered alternate fall semesters. Prerequisite: Geology 100 or 110.
+
+GEOL 240. Hydrogeology (1). An introduction to the components of the hydrologic cycle with an emphasis
+on the movement of water through geologic media. Field-monitoring methods and analysis of hydrogeologic
+data through graphical, mathematical, and computer-modeling techniques. Applications to issues of water
+quality, water supply, and water resources management. Lecture, laboratory, feld study. One Saturday or
+Sunday feld trip. Ofered alternate spring semesters. Prerequisite: Geology 100 or 110; Mathematics 110 or 115
+highly recommended.
+
+GEOL 245. Earth’s Climate: Past and Future (1). Students gain an understanding of natural climate
+variability over Earth’s history, including rates and magnitude of change, and the mechanisms driving these
+changes. Knowledge of past climate states and changes is then used to interpret current anthropogenic
+climate change and extrapolate future climate scenarios. Social, economic, and natural resource use (critical
+minerals and water) implications of climate change are discussed. Students study past climate using data
+collected from rocks, sediments, ice sheets, tree rings, and fossils. Ofered alternate years. Prerequisites:
+any 100-level geology, biology, or chemistry course, or by consent of the instructor. (Also taught as
+Environmental Studies 245)
+
+GEOL 250. Advanced Topics in Geology (.5). Topics of current interest or of special importance in the feld
+of geology chosen to take advantage of the expertise of either the regular faculty or of visiting lecturers.
+Ofered occasionally. Prerequisite: dependent upon subject matter.
+
+GEOL 251. Advanced Topics in Geology (1). Topics of current interest or of special importance in the feld
+of geology chosen to take advantage of the expertise of either the regular faculty or of visiting lecturers.
+Ofered occasionally. Prerequisite: dependent upon subject matter.
+
+GEOL 325. Tectonics (1). The structural and chemical evolution of the continental lithosphere from the
+Archean to present. Lectures and laboratory focus on the kinematics of plate motions, continental growth,
+geochronology, geothermobarometry, and thermal modeling. Mountain belts from Earth, Venus, and Mars
+are used as case studies. Basic computer and mathematical skills are expected. Ofered occasionally.
+Prerequisite: Geology 100 or 110 and 200; Geology 105 recommended.
+
+GEOL 385. Thesis Research-Geology (.5, 1). Individual feld and/or laboratory research problems in geology.
+May be elected by the student in consultation with the department chair and staf members either during
+the regular school year or during the vacation periods. Research programs may lead to consideration for
+the Walter S. Haven prizes in geology. (CP) Prerequisite: sophomore standing and consent of the faculty
+supervisor and department chair.
+
+GEOL 390. Special Project (.25 - 1). Individual study under faculty supervision; evaluation based on
+appropriate evidence of achievement. Prerequisite: sophomore standing.
+
+GEOL 395. Teaching Assistant (.5). Work with faculty in classroom instruction. Graded credit/no credit.
+
+Greek, Latin, and Ancient Mediterranean Studies
+Studying the cultures, languages, literatures, mythologies, and material remains of ancient Greece and Rome,
+as well as their interdependent relationships with other societies of the ancient Mediterranean, teaches
+advanced skills in critical thought, creative problem-solving, communication, and careful analysis. Much
+about these societies can probably never be known for certain, but the large degree of uncertainty is just
+as useful as the evidence itself: continuing to produce knowledge about these societies requires ethical,
+precise, multidisciplinary, and creative approaches both to the evidence and to the gaps in evidence.
+
+Our curriculum, therefore, teaches students multiple ways of approaching the ancient Mediterranean world
+and its continued infuence, ofering one major that uses Latin and Greek languages and another that uses
+a working knowledge of either Latin or Greek in addition to non-philological multidisciplinary inquiry. In
+our majors and minor, students are empowered to question how knowledge is and has been produced,
+to confront how such knowledge is given authority in the present, and to become producers of their own
+knowledges and communities as they move forward in their lives.
+
+Greek, Latin, and Ancient Mediterranean Studies Faculty
+• Kosta Hadavas
+• Lisl Walsh
+
+Ancient Mediterranean Studies Major (10 units)
+Courses with asterisks (*) apply only if topic is appropriate. Consult with a Greek, Latin, and Ancient
+Mediterranean Studies advisor for approval.
+1. Six departmental units:
+a.Completion of at least 3 courses in either Greek or Latin.
+b.Three courses selected from the following: Greek, Latin, and Ancient Mediterranean Studies 100, 200,
+201, 205, 206, 207, 215.
+2. Supporting courses (4 units):
+a.Either Greek, Latin, and Ancient Mediterranean Studies 202/History 221 or Greek, Latin, and Ancient
+Mediterranean Studies 204/History 222.
+b.Three courses chosen in consultation with the advisor. Especially recommended are: Anthropology
+110; Art History 150* and 210; Philosophy 200 and 350; Political Science 280; and appropriate critical
+identity studies courses.

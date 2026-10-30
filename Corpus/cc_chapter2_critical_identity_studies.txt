@@ -1,0 +1,314 @@
+id: cc_chapter2_critical_identity_studies
+title: Course Catalog Majors & Minors Chapter 2 Critical Identity Studies
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 51-56
+retrieved: 2026-10-29
+------------------------------------------------------------
+CSCI 335. Threads and Operating Systems (1). Overviews the basic techniques for threaded programs
+where multiple tasks share the computer resources as well as surveys the principles of modern operating
+systems. Topics covered include data races, deadlock, atomicity/mutual exclusion with implementation,
+communication between threads including shared memory and message passing, operating system design,
+hardware infuences, concurrency mechanisms, threads and processes, process states and diagrams,
+scheduling, context states and interrupts, memory management, fle systems, and examples from major
+contemporary operating systems. Actual threaded programming will be done. Ofered every third semester.
+Prerequisite: Computer Science 204.
+
+CSCI 347. Computer Models and Languages (1). To understand what a computer can and cannot do, we
+investigate diferent styles of languages used to program computers, study machine learning (where the
+computer partly programs itself) and construct abstract models of computers for a more formal analysis
+of their capabilities and limitations. The focus is on programming languages substantially diferent than the
+object-oriented languages students are expected to be familiar with. We investigate their capabilities and
+strengths, and how they are implemented. We learn the basic properties of the three main abstract classes
+of computers: Finite State Machines, Context-Free Grammars, and Turing Machines. We learn that some
+problems cannot be solved by computers and the implications of these unsolvable problems on computer
+technology. Ofered every third semester. Prerequisite: Computer Science 204.
+
+CSCI 367. Database Capstone (1). This course introduces relational database systems, including design,
+architecture, SQL, relational data modeling, entity-relationships, transactions, and reliability. The course
+also introduces information management systems, including human needs, indexing, quality issues, object-
+oriented model, and information representation and applications. Students will work in teams to design
+a database application, including testing, documentation, and review. Students will experience diferent
+roles in the team environment and continued presentation of work to the audiences. Appropriate software
+development tools will be learned and utilized. Students will study professional ethics and obligations. (CP).
+Ofered every year. Prerequisite: junior standing and Computer Science 204.
+
+CSCI 370. Advanced Topics in Computer Science (.25 - 1). Selected aspects of computer science refecting
+particular interests and experience of the instructor. Course title and content vary, and the course may be
+repeated for credit when the title and content change. Ofered occasionally. Prerequisite: varies with topic.
+CSCI 377. Software Engineering Capstone (1). This course studies modern techniques for using multiple
+teams to develop a single program. This includes programming techniques (e.g. test-driven development),
+professional tools (e.g. GitHub), and Scrum-based coordination. Historical approaches, such as the Waterfall
+Model, are discussed, but the focus is on modern versions of Agile Programming and user-story driven in-
+cremental development. This is a project-based course, with new projects for each ofering. Students attend
+weekly Scrum meetings, contribute regularly to the GitHub repository, design tests for both their own code
+and teammate’s code, and give a presentation on one of the standard design patterns. (CP) Prerequisites:
+Computer Science 204 and junior standing.
+CSCI 390. Special Project (.25 - 1). Individual, guided investigation of a problem or topic in computer
+science. Prerequisite: sophomore standing.
+
+CSCI 395. Teaching Assistant (.25, .5). Work with faculty in classroom instruction. Graded credit/no credit.
+
+Critical Identity Studies
+The Department of Critical Identity Studies (CRIS) aims to bring normative and non-normative identities and
+embodied lifeways (based on races, religions, genders, sexualities, dis/abilities, nations, etc.) across space
+and time into critical and constructive dialogue so as to integrate theories and practices that advance the
+work of equity and anti-racism at the college and beyond.
+
+Drawing on cross-disciplinary approaches to women’s and gender studies, ethnic studies, religious studies,
+disability studies, postcolonial studies, and more, CRIS students have ongoing opportunities to understand
+identity deeply, remake dominant knowledge paradigms, and practice what it means to transform
+themselves and their communities through self-refection and hands-on engagement within and outside the
+traditional classroom.
+
+Whether their communities are the places they call home, the various contexts of Beloit College, or the
+global networks they build, students will broaden their awareness of the relations that constitute self and
+other and enhance their ability to navigate complex systems of power within which identity formations take
+shape.
+Courses from several diferent departments and programs count toward the Critical Identity Studies major
+and minor.
+
+Critical Identity Studies Faculty
+• Natalie Gummer
+• Sonya Maria Johnson
+• Lisl Walsh
+
+•
+Critical Identity Studies Major (10 units)
+1. Critical Identity Studies 101.
+2. Two Critical Identity Studies Blocks from the list in the “Blocks” section below (up to 8 units).
+3. At least one unit from these blocks must address methodology (to be chosen in consultation with the
+advisor).
+4. Aside from Critical Identity Studies 101, no more than 3 courses at the 100-level may apply to the major.
+3. Critical Identity Studies 350.
+4. Additional units chosen in consultation with the advisor that add up to at least 10 units in total.
+5. A student may double-count no more than two courses with any other major or minor except in
+consultation with their advisor.
+Students with a GPA 3.6 or above in courses in the major may apply in the fall of the senior year for honors.
+Honors are awarded based on the development and public presentation of an outstanding senior project
+that builds or transforms community.
+
+Critical Identity Studies Minor (6 units)
+1. Critical Identity Studies 101.
+2. One Critical Identity Studies Block from the list in the “Blocks” section below (4 units).
+3. At least one unit from the selected block must address methodology (to be chosen in consultation with
+the advisor).
+4. Aside from Critical Identity Studies 101, no more than 1 course at the 100-level may apply to the minor.
+5. Critical Identity Studies 350.
+6. A student may double-count no more than one course with any other major or minor except in
+consultation with their advisor.
+
+Religious Studies Minor (6 units)
+1. Religious Studies 101
+2. Five additional units in RLST.
+a. Some of these units may be fulflled by courses focused on religion in another discipline (e.g., HIST
+225, Renewal and Reform in Early Modern Europe, and HIST 264, Piety and Heresy in the Middle
+Ages) or as part of study abroad.
+b. A maximum of one unit may be fulflled by a course not primarily focused on religion, as long as the
+student does substantial work on a topic related to the study of lifeways seen as religious for the
+course. This option requires the approval of a religious studies advisor prior to the completion of the
+course.
+
+Critical Identity Studies Blocks
+Bodies (4 units)
+Students who complete the Bodies block will be able to analyze how bodily practices intersect with
+knowledge systems, as well as articulate the ways in which bodies are shaped by and transgress structures
+of power and oppression.
+Introductory course: Critical Identity Studies 101.
+Bodies in function: At least one unit from Anthropology 120, 225, 230; Biology 110, 111, 121, 152, 256;
+Cognitive Science 241; Greek and Latin Studies 215; Health and Society 252; Philosophy 221; Sociology
+275; relevant topics courses.
+Bodies in culture: At least one unit from Anthropology 253, 308; Cognitive Science 240; Psychology
+225; Religious Studies 311, 315; relevant topics courses (e.g., Anthropology 375 Archaeology of Animal
+Companions; Cognitive Science 205 Cyborg Brains and Hybrid Minds; Critical Identity Studies 265
+Bodies and Care).
+Bodies in motion: At least one unit from Art 135; Health and Society 110; Performing and Applied Arts
+100, 106, 113, 180, 213, 313; Physical Education and Recreation 104; relevant topics courses (e.g., Health
+and Society 280 Pilates; Performing and Applied Arts 200 Hip Hop Dance).
+Colonialism and Decoloniality (4 units)
+Students who complete the Colonialism and Decoloniality block will be able to articulate how global
+structures of power depend upon and reproduce interdependent and transformative forms of knowledge
+production, as well as identify and practice alternatives to colonial structures and norms (four units).
+
+Introductory Course: Critical Identity Studies 101.
+History and Culture: At least one unit from: History 250, 268; Performing and Applied Arts 150, 219, 310;
+relevant topics courses such as English 263; History 150 (Colonialism), 310 (History Beyond Borders).
+
+Forms of Knowledge and Power: At least one unit from: Philosophy 275; Political Science 160, 210, 265,
+272; Religious Studies 206, 309, 315; relevant topics courses.
+Criminal Justice and the Carceral State (4 units)
+Students who complete the Criminal Justice and the Carceral State block will be able to identify the social
+norms and values that shape notions of criminality, as well as analyze
+the variable impact of the carceral state on diferent bodies and communities.
+
+Introductory courses: Two units: Sociology 100, and one unit from Political Science 110 or 180, as
+appropriate for course choices below.
+Theories of justice/criminality: At least one unit from Philosophy 243; Political Science 180, 280;
+relevant topics courses.
+Carceral institutions and social structures: At least one unit from Political Science 211, 214, 237, 262;
+SOCI 205, 256, 261, 281; relevant topics courses.
+
+Cross-Cultural Perspectives on Education, Identity, and the Life Cycle (4 units)
+Students who complete the Cross-Cultural Perspectives on Education, Identity, and the Life Cycle block will
+be able to analyze how diferent pedagogical goals and approaches contribute to identity formation at the
+K–12 level globally, as well as advance social change through pedagogical innovation.
+Four units from Education and Youth Studies 102, 151, 164, 201; Health and Society 252; Psychology 225;
+relevant topics courses (e.g., Education and Youth Studies 276 Multicultural Education and the American
+Dream).
+
+Indigenous Studies (4 units)
+Students who complete the Indigenous Studies block will be able to identify how indigenous
+communities have grappled with colonial forces and developed decolonial strategies for ethical living, as
+well as articulate how indigenous lifeways envision and
+engage with the natural world (4 units).
+
+Introductory Course: At least one unit from Critical Identity Studies 101.
+Colonialism/decoloniality: At least one unit from Religious Studies 206, 309; relevant
+topics courses such as: English (Colonial/Postcolonial Literatures in English); History 150 (Colonialism),
+310 (History Beyond Borders).
+Environmental Studies: At least one unit from Philosophy 224, 210, 231, 255, 259,
+Sociology 271, Writing 220 (Writing the Environmental Humanities). relevant topics
+courses.
+Indigenous Communities and Practices: At least one unit from Philosophy 275; Religious Studies 205,
+311, 330; relevant topics courses such as Anthropology 375 (Indigenizing Practice, Indigenous Values,
+Indigenous Curation in Practice); English 190 (Introduction to Native American Literature).
+Intersecting Identities (4 units)
+Students who complete the Intersecting Identities block will be able to recognize how intersecting aspects
+of identity contribute to inequities experienced in our everyday worlds, as well as refect on how our
+positionality shapes our perceptions and actions, as well as the ways in which we are perceived and acted
+upon in our lives.
+Introductory course: Critical Identity Studies 101, or substitute Sociology 100.
+Multiple identities/identity formation: At least one unit from Education and Youth Studies 102, 164, 201;
+Performing and Applied Arts 150, 219, 310; Political Science 262, 263, 265; Psychology 161,162; Religious
+Studies 101, 301, 309, 330; Sociology 205, 245; relevant topics courses (e.g., Spanish Language and
+Culture 320/English 250 Crossing Borders).
+Specifc aspects of identity: At least one unit from Health and Society 252; Performing and Applied
+Arts 288; Psychology 225; Sociology 225, 262; Spanish Language and Culture 270; relevant topics
+courses (e.g., English 190 Intro Native American Literature; English 194 Gods & Monsters).
+
+Queer and Trans Studies (4 units)
+Students who complete the Queer and Trans Studies block will be able to identify the historical and theoret-
+ical foundations of queer and trans studies, as well as interpret literary and artistic works that participate in
+queer and trans activism.
+
+Introductory course: Critical Identity Studies 101.
+Artistic Production and Analysis: At least one unit from Performing and Applied Arts 180, 280, 288;
+relevant topics courses (e.g., French and Francophone Studies/English 250 Trans before Trans; Media
+Studies 271 Depictions of Drag in TV and Film).
+Social and Cultural Analysis: At least one unit from Anthropology 253, 308; Sociology 225; relevant
+topics courses (e.g., Anthropology 375 Politics of Care).
+Race and Racialization (4 units)
+Students who complete the Race and Racialization block will be able to recognize the social, political,
+economic, environmental, and cultural deprioritization or prioritization of diferent communities based on
+phenotype, as well as identify the construction of social structures and behavioral conditions that create and
+recreate racial hierarchies.
+Introductory course: Critical Identity Studies 101.
+Additional coursework: At least three units from English 263; History 250; Philosophy 275; Political
+Science 211, 214, 263, 265; Religious Studies 301, 315, 325, 330; Sociology 205, 245, 262; relevant topics
+
+courses (e.g., Critical Identity Studies 265 Maladies of Empire; Critical Identity Studies 265 Bodies
+and Care; Critical Identity Studies 265 Speculative Activism; English 194 Gods & Monsters; History 150
+Colonialism; History 150 Nazi History; Media Studies 271 African-American Cinema; Sociology 290 Race,
+Class, and Gender in Film).
+
+Religious Lifeways (4 units)
+Students who complete the Religious Lifeways block will be able to analyze religious phenomena with an
+awareness of the ethical and epistemological implications of positionality and their relationship to power
+structures and social identities, as well as explain (and possibly modify) their own assumptions and practices
+in light of the lifeways of others.
+Introductory course: Religious Studies 101.
+Additional coursework: Three units from History 225, 264; Religious Studies 205, 206, 240, 301, 309,
+311, 315, 325, 330; relevant topics courses.
+
+Sex and Gender (4 units)
+Students who complete the Sex and Gender block will be able to analyze how gender-based power,
+privilege, and oppression—historical, cultural, institutional—have constrained bodies and identities within
+a male/female binary, as well as identify forms of creative and political resistance and transformation that
+support ways of being beyond a male/female binary.
+
+Introductory course: Critical Identity Studies 101 or Sociology 100.
+Sex and gender in culture, politics, and history: At least one unit from Anthropology 120, 253, 308;
+Japanese Language and Culture 262; Health and Society 252; Political Science 262, 263; Psychology
+225; Sociology 205, 225, 245; relevant topics courses (e.g., French and Francophone Studies/English
+250 Trans before Trans; Media Studies 271 Women Filmmakers; Spanish Language and Culture 320/
+English 250 Crossing Borders).
+Sex and gender in media and performances: At least one unit from Performing and Applied Arts 288;
+relevant topics courses (e.g., Greek and Latin Studies 200/English 250 Ancient Drama; English 254
+Jane Austen: Fiction & Film; Media Studies 271 Depictions of Drag in TV and Film; Sociology 290 Race,
+Class, and Gender in Film).
+
+Critical Identity Studies Courses
+CRIS 101. Navigating Diference (1). This course introduces students to toolkits for encountering and
+actively practicing empathizing with diferent experiences and forms of knowledge. Students explore the
+intersections of identity categories (gender, race, sexuality, class, dis/ability, non/religiosity, nation, etc.)
+with structures of power, foregrounding the perspectives of those who have been marginalized by dominant
+groups over space and time, with a focus on the United States. The course foregrounds practices for building
+communities across diferences in identity and experience, using Beloit College as a lab of learning in order
+to help students develop the intellectual habits, refective capacities, and collaborative communication skills
+required for equity-based interventions in their current and future social worlds. (3B) Ofered each fall.
+Prerequisite: frst-year or sophomore standing; juniors and seniors may register with instructor permission.
+
+CRIS 140. Introduction to Critical Identity Studies Topics (1). This introductory-level course engages
+students in the development of intersectional and critical thinking about identity–a core that anchors the
+Critical Identity Studies curriculum. Courses crosslisted as Critical Identity Studies 140 represent a diverse
+array of academic disciplines and show how interdisciplinary, intersectional, and social-justice approaches
+are embedded in a student’s education across the curriculum. May be repeated for credit if topic is diferent.
+The 3B- and 5T-domained versions of this topics course are, respectively, Critical Identity Studies 141 and 142.
+
+CRIS 265. Topics in Critical Identity Studies (.5, 1). Topics important to the feld of critical identity studies
+will be ofered to take advantage of faculty or student interest. May be repeated for credit if topic is
+diferent. The 2A, 3B, and 5T domained versions of this course are, respectively, Critical Identity Studies 266,
+267, and 268.
+
+CRIS 269. Topics in Critical Identity Studies: History Topic (.5, 1). History topics important to the feld of
+critical identity studies. May be repeated for credit if topic is diferent. (5T) The un-domained version of this
+course is Critical Identity Studies 270.
+
+CRIS 350. Doing Community Capstone (1). This course helps students assess how their critical study of
+identity and their liberal arts education have helped them remake knowledge for themselves and others.
+Students refect on their experiences and examine the behaviors, practices, and habits of mind they have
+developed at Beloit. The course culminates in “doing community” through a micro-intervention project
+that aims to make the college more inclusive. Students learn strategies for seeking mentorship, developing
+as professionals, launching their post-Beloit careers, and navigating diferent organizational cultures. By
+the end of the course, each student produces a robust portfolio for job search or graduate school. (CP)
+Prerequisites: Critical identity studies major or minor, or permission of instructor.
+
+CRIS 360. Advanced Topics in Critical Identity Studies (.5, 1). This advanced-level course takes up topics
+important to the feld of critical identity studies and will be ofered to take advantage of faculty or student
+interest. May be repeated for credit if topic is diferent. Prerequisite: Critical Identity Studies 101.
+
+CRIS 390. Special Project (.25-1). Individual work under faculty supervision, with evaluation based on
+appropriate evidence of achievement. Prerequisite: sophomore standing.
+
+CRIS 392. Senior Thesis (.5, 1). The writing of a substantial paper or project based on independent study or
+project. Qualifed students are invited to apply in the fall of their senior year.
+
+CRIS 395. Teaching Assistant (.5). Work with faculty in research or classroom instruction. Graded credit/no
+credit. Prerequisite: consent of instructor.
+
+CRIS 396. Research Assistant (.5). Work with faculty doing research. Prerequisite: consent of instructor.
+
+Data Science & Data Analytics
+Majoring in data science or data analytics at Beloit, you will learn not only how to work with data, but
+also the humanistic foundation of data work. You will acquire career-ready skills that will position you, at
+graduation, to work in a variety of felds that make use of complex data sets (e.g. business, the arts, science,
+government, and more).
+
+Data Science & Data Analytics Faculty
+• Rachel A. Bergstrom, PhD
+• Eyad Haj Said
+• Katherine Harris
+• Diep Phan
+• Disha Shende
+• Tom Stojsavljevic
+• Leslie Lea Williams
+• Daniel Michael Youd
+Data Analytics Major (10.5-12 units)
+1. Data Science and Data Analytics 210 (.5).
+2. One unit in mathematics: Mathematics 110.
+3. Three units in computer science: Computer Science 111, 204, and 367.
+4. At least 2.5 units in data science and data analytics or the humanities, chosen from Art 325, Data
+Science and Data Analytics 215, English 265, Greek, Latin, and Ancient Mediterranean Studies 249,
+Media Studies 150, Writing 215.
+5. One disciplinary specialty chosen from the following (3 units, unless otherwise indicated):
+a. Anthropology : Two units chosen from any 100-level anthropology courses; 240 (201 and 225 are
+recommended).

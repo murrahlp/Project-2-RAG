@@ -1,0 +1,266 @@
+id: cc_chapter2_mathematics
+title: Course Catalog Majors & Minors Chapter 2 Mathematics
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 118-122
+retrieved: 2026-10-29
+------------------------------------------------------------
+Law & Justice Faculty
+• Klara MC Fredriksson
+• Matthew Tedesco
+• Pablo Toral
+• Charles Westerberg
+Law and Justice Minor (5 units)
+Normally, no courses used to satisfy a major concentration may count toward the requirements of the law
+and justice minor.
+1. Four units from at least two of the following departments or programs:
+a. Economics 220, 271 (when content is appropriate).
+b. History 150 (when content is appropriate), 310 (when content is appropriate).
+c. Interdisciplinary Studies 239.
+d. Philosophy 221, 224, 243, 280, 285.
+e. Political Science 221, 225, 237, 251, 255, 262, 280, 285, 380.
+f. Psychology 239.
+g. Sociology 231, 256, 261, 281.
+
+2. Completion of an internship in a setting related to law and justice. This capstone experience carries at
+least 1 unit of credit, is arranged in consultation with the minor advisor, and must be completed in one of
+the student’s last three semesters.
+
+Law & Justice Courses
+Courses for this program come from many departments and programs.
+
+Mathematics
+Beloit teaches both applied mathematics, which stresses problems arising through contact with nature and
+society, and pure mathematics, which addresses problems of intrinsic aesthetic interest. Students are free
+to choose to concentrate on one or the other. The faculty attempts to set the beauty, rigor, and usefulness
+of mathematics within its historical context and multicultural heritage. Courses guide students toward the
+ability to give clear oral and written expression of the mathematical ideas they learn.
+
+Mathematics Faculty
+
+• Eyad Haj Said
+• Katherine Harris
+• Sohaib Kiani
+• Tom Stojsavljevic
+• Ben Stucky
+
+Mathematics Major (12 units)
+
+1. Nine departmental units (at level 110 or higher) including:
+a. Mathematics 150 (.5).
+b. Four units of mathematics courses numbered between 300 and 380, inclusive and including at least
+two from the following: Mathematics 315, 335, 340, 375.
+c. Four additional units of mathematics electives at level 110 or higher.
+d. Mathematics 385 (.5) (capstone course).
+2. Supporting courses (3 units):
+a. One unit of computer science , excluding computer science 165, 390 (except by permission), 395, and
+
+the AP Computer Science Principles exam.
+b. Two courses in physics, or 1 course in physics and 1 course emphasizing quantitative methods, chosen
+in consultation with the major advisor.
+3. Mathematics majors are encouraged to do an internship or feld experience involving the application of
+mathematics. Prospective graduate students are advised to take at least two terms of a modern foreign
+language, preferably French or Japanese.
+4. Writing/communication requirement: Mathematics students should learn both how to write prose and
+how to write mathematics. Majors must take at least 5 courses designated by the college as W, at least
+2 of which must be from inside the mathematics/computer science department and at least 2 of which
+must be from outside the department. (Transfer students reduce this by 1 course per year of advanced
+standing.) Departmental courses that qualify include 205, 230, 300, 310, 315, 340, and 385, and other
+courses as designated by the instructor.
+
+5. Mathematicians need to know both how to write for other professionals in the feld and how to report
+their work to others not necessarily trained in the discipline. Professional writing for mathematicians is
+usually proof-based. Many of the department’s upper-level courses focus on such writing. Explaining our
+work to nonprofessionals often requires signifcantly diferent skills. While some departmental courses
+emphasize this type of writing, often the best training for this is writing courses in other disciplines.
+Consequently, mathematics majors are required to take writing courses both within and outside the
+department.
+6. Mathematics majors are encouraged to attend Mathematics Colloquium regularly each semester in which
+they are in residence in their junior and senior.
+7. Students majoring in mathematics may choose to receive the Bachelor of Science degree rather than
+the Bachelor of Arts degree by completing a minimum of 4 units in biology, chemistry, geology, and/or
+physics.
+Mathematics Minor (5.75 units)
+1. Five and three-quarters departmental units:
+a. Mathematics 110, 115, 150 (.5), 275, and 383 (.25).
+b. Two units of mathematics at level 200 or above. At least 1 of these units must be chosen from 315,
+335, 340, or 375.
+
+Advanced Placement and Credit for Mathematics
+Supplemental to the college’s general policies for advanced placement and credit, the department of
+mathematics and computer science grants credit for AP, IB, or Level-A exams as follows:
+
+• College Entrance Examination Board’s (CEEB) Advanced Placement Exams:
+• Calculus AB, or AB subscore of BC exam: A score of 4 or 5 earns credit for MATH 110.
+• Calculus BC: A score of 4 or 5 earns credit for MATH 110 and MATH 115.
+
+• International Baccalaureate Exam: A score of 5 or higher earns credit for MATH 110; for other scores, no
+credit is earned and students should consult with math faculty to determine placement.
+• Level A Math (9709) and Further Math (9231):
+• A grade of C or better in either course earns credit for MATH 110. Students may consult with the depart -
+ment regarding potential placement beyond MATH 115.
+
+Departmental Honors in Mathematics
+The goals of departmental honors in Mathematics and Computer Science are to:
+1. Encourage students to explore independently topics in mathematics or computer science outside the
+scope of our formal curriculum, and
+2. Enhance students’ abilities to communicate ideas in mathematics and computing.
+
+c.
+Honors in Mathematics is awarded on the basis of the following criteria.
+
+1. Academic achievement. The candidate must demonstrate high academic achievement across the
+College (cumulative GPA of at least 3.2) and in Mathematics (GPA of at least 3.2 in the major).
+2. Intention to apply: The candidate must submit an intention to apply for honors (in writing), including the
+list of courses that satisfy the requirements for the major, to the chair of the Mathematics and Computer
+Science Department no later than the last day to add one-unit courses for the last on-campus term as a
+regular full-time student.
+
+3. Project: An honors student in Mathematics either engages in original research or exposits and demon-
+strates thorough knowledge of a piece of mathematics done by others. The project may be
+• A summer research experience
+• A Math 385: Mathematics Colloquium topic
+4. Presentation: An honors student in Mathematics must present their work in Math 385: Mathematics
+Colloquium (enrolled or not) and present to an external audience (on or of campus).
+5. Professional engagement: The candidate should demonstrate active engagement in the department or in
+the broader discipline of mathematics and serve as a role model for respectful and professional behavior.
+6. The award of Honors in Mathematics requires designation by the faculty of the Department of
+Mathematics and Computer Science that the candidate’s project and presentation is of honors merit
+(one that demonstrates independence of thought, intellectual maturity, and an in-depth understanding
+of the research problem).
+
+Mathematics Courses
+MATH 108. Pre-Calculus (1). The mathematics necessary for calculus: algebraic manipulations; radicals
+and exponents; logarithmic, exponential and trigonometric functions; graphing and analytical geometry;
+theory of polynomials; complex numbers, and how such mathematics is developed. This course is designed
+for students who wish to take calculus but are not adequately prepared by their high school background.
+Prerequisite: First- or second-year standing. Not open to juniors and seniors without departmental
+permission. Not open to students who have received credit for calculus.
+
+MATH 110. Calculus I (1). An introduction to diferential and integral calculus. Limits and continuity,
+derivatives and integrals of polynomial, trigonometric, exponential, and logarithmic functions, applications
+of derivatives to optimization and approximation, the Mean Value Theorem, and the Fundamental Theorem
+of Calculus. (1S) Ofered each semester. Prerequisite: four years of high school mathematics, including
+trigonometry and either college algebra or precalculus.
+
+MATH 115. Calculus II (1). Techniques of integration, L’Hôpital’s Rule, infnite sequences and series, Taylor
+series and applications, frst-order diferential equations, and introduction to the calculus of multivariable
+functions, including partial derivatives and multiple integrals. (1S) Ofered each semester. Prerequisite:
+Mathematics 110.
+
+MATH 150. Introduction to Proofs (.5). This is a transition course that develops the reasoning skills
+necessary for later mathematics courses with an emphasis on improving writing and presentation skills.
+Students engage with mathematical language and methods of conjecture, proof and counterexample,
+with emphasis on proofs. To motivate this content, students engage with the culture and history of the
+epistemology of mathematics. (1S) Prerequisite: Mathematics 110.
+
+MATH 160. Discrete Structures (1). Introduction to the mathematical basis for computer science, including
+logic, counting, graphs and trees, and discrete probability. Ofered even years, fall semester. Prerequisite:
+Computer Science 111. Prerequisite or co-requisite: Mathematics 110.
+
+MATH 201. Vector Calculus (1). Diferentiation and integration of functions of several variables; integration
+on surfaces; vector analysis; theorems of Green, Stokes, and Gauss; applications to ordinary and partial
+diferential equations and to geometry. Ofered even years, spring semester. Prerequisite: Mathematics 115.
+
+MATH 205. Mathematical Statistics I (1). Probability calculus for discrete and continuous probability
+distributions of one and several variables, including order statistics, combining and transforming random
+variables, and the use of moment-generating functions. Introduction to hypothesis testing. Ofered even
+years, fall semester. Prerequisite: Mathematics 115.
+
+MATH 270. Topics in Mathematics (.25 - 1). Selected aspects of mathematics refecting the interests
+and experience of the instructor. May be repeated for credit if topic is diferent. Ofered occasionally.
+Prerequisite: varies with topic.
+
+MATH 275. Linear Algebra (1). Linear equations and matrices, abstract vector spaces and linear
+transformations, orthogonality, eigenvalues and eigenvectors. Emphasizes development of abstract thinking
+and a variety of applications of linear algebra in science and social science. (1S) Ofered each semester.
+Prerequisite: Mathematics 115. Prerequisite or co-requisite: Mathematics 150.
+
+MATH 290. Diferential Equations (1). Solution methods for frst-order diferential equations, linear
+diferential equations, power-series solutions, the Laplace transform, numerical methods, stability,
+applications. Ofered odd years, spring semester. Prerequisite: Mathematics 115.
+
+MATH 300. Mathematical Modeling (1). Construction and investigation of mathematical models of real-
+world phenomena, including team projects and use of computer packages as needed. Ofered odd years, fall
+semester. Prerequisite: One unit of computer science and two mathematics courses numbered 275 or higher.
+
+MATH 310. Mathematical Statistics II (1). Properties of point estimators, development of hypothesis tests by
+means of the generalized likelihood ratio, and inference using the normal and related distributions. One- and
+two-sample, goodness of ft, and distribution-free hypothesis tests. Inference for regression and analysis of
+variance. Ofered odd years, spring semester. Prerequisite: Mathematics 205.
+
+MATH 315. Abstract Algebra (1). Axiomatic treatment of selected algebraic structures including groups,
+rings, integral domains, and felds, with illustrative examples. Also includes elementary factorization theory.
+Ofered each spring. Prerequisite: Mathematics 275.
+
+MATH 335. Topology (1). Topological invariants of knots, classifcation of compact surfaces, structure of
+three-dimensional manifolds. Introduction to homotopy groups and abstract topological spaces. Ofered odd
+years, spring semester. Prerequisite: Mathematics 275 or 208.
+
+MATH 340. Real Analysis (1). The real numbers, metric concepts and continuity, diferentiation and
+integration of real functions, infnite sequences and series of functions. Ofered each fall. Prerequisite:
+Mathematics 208 or 275.
+
+MATH 375. Complex Analysis (1). The complex plane, analytic functions, complex integration, Taylor and
+Laurent series, residues and poles, conformal mapping, applications. Ofered even years, spring semester.
+Prerequisite: Mathematics 275.
+
+MATH 380. Topics in Mathematics (.25 - 1). Selected topics in mathematics, refecting the interests
+and experience of the instructor. May be repeated for credit if topic is diferent. Ofered occasionally.
+Prerequisite: varies with topic.
+
+MATH 383. Mathematics Colloquium (.25). Presentations by participants and faculty on selected topics. with
+occasional guest speakers. This version of the colloquium is geared towards mathematics minors. May be
+taken two times for credit if topic is diferent. Graded credit/no credit. Prerequisite: Mathematics 275.
+
+MATH 385. Mathematics Colloquium (.5). Attendance required. Students select a faculty guide to assist
+them in learning to research a mathematical topic, prepare preliminary drafts of a paper, fnalize the paper
+using Latex typesetting software, and then present the results of the paper to the class in a 50-minute talk.
+Class includes talks by students, some faculty, and often guest speakers. The course may be taken more than
+once. (CP) Ofered each semester. Prerequisite: Mathematics 275, junior standing.
+
+MATH 390. Special Project (.25 - 1). Individual guided investigations of topics or problems in mathematics.
+Since such investigation is important to the development of mathematical maturity, the department
+encourages each major to do at least one such project. Prerequisite: approval of the project by the
+department chair; sophomore standing.
+
+MATH 395. Teaching Assistant (.5). Work with faculty in classroom instruction. Graded credit/no credit.
+
+MATH 396. Teaching Assistant Research (.5). Course and curriculum development projects with faculty.
+
+Media Studies
+The media studies major brings together coursework in media production and theory, ofering students a
+range of technical skills and theoretical tools that will help them become active producers and thoughtful
+consumers of media.
+
+The major ofers students an opportunity to produce original, creative work, and to gain practical experience
+through internships, entrepreneurship, and work experience. It also cultivates media literacy by requiring
+students to examine various media phenomena within the context of cultural, economic, political, and
+technological developments from around the globe.
+
+Courses in media studies skirt the boundaries of sociology, anthropology , art, history , flm studies,
+environmental studies, and political science, and ofer opportunities to engage with a range of prominent
+critical traditions within the humanities, including postcolonial studies, critical race theory, feminist and
+gender studies.
+
+Media Studies Faculty
+• Joy Beckman
+• Joe Bookman
+• Christopher Fink
+• Shawn Gillen
+• Kosta Hadavas
+• Cullyn Murphy
+• Rick Rose
+• Mats Rudels
+• Gina T’ai
+• George Williams
+
+Media Studies Major (10 units)
+1. Two units of introductory Media Studies:
+a. Media Studies 100, 110 or 150.
+b. Media Studies 125.
+
+2. Two units of media production chosen from: Art 117, 125; English 228; Media Studies 155, 215, 225, 251,
+300, 301; Performing and Applied Arts 260.
+3. Three units of advanced Media Studies coursework:
+a. One unit chosen from: Media Studies 250, 270, 271, 272, 350, 351, 370.
+b. Two additional upper-level units chosen in consultation with a media studies advisor.

@@ -1,0 +1,216 @@
+id: cc_chapter2_cognitave_science
+title: Course Catalog Majors & Minors Chapter 2 Cognitave Science
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 45-48
+retrieved: 2026-10-29
+------------------------------------------------------------
+and introductory bioinformatics (BLAST, and antiSMASH), chemical extraction, and biochemical assays.
+Students engage in experimental design during a semester-long research project and communicate their
+fndings by preparing and presenting a poster about their research project. (CP) (Also listed as Biology 360.)
+Ofered every other spring. Prerequisite: one 200-level biology course, Chemistry 230, and junior or senior
+standing, or consent of instructor.
+
+CHEM 365. Medicinal Chemistry (1). This course examines the organic chemistry of drug design,
+development, and action with an emphasis on the chemical mechanisms of biologically important reactions.
+Particular attention is paid to the interaction between a drug and its receptor, looking in detail at enzyme
+inhibition and inactivation and interactions between drugs and DNA. Drug metabolism and drug delivery
+are also discussed. Specifc classes of drugs and current literature in medicinal chemistry are the basis of
+student-led presentations throughout the semester. (CP) Ofered every other year. Prerequisite: Chemistry
+235.
+
+CHEM 370. Advanced Topics (.5, 1). In-depth study of selected topics stressing primary research literature.
+Lecture, discussion, student presentations, and papers. May include laboratory. Past oferings have included
+advanced organic chemistry, scientifc glassblowing, medicinal chemistry, organometallic chemistry, and
+laser spectroscopy. May be repeated for credit if topic is diferent. Ofered each semester. Prerequisite:
+Varies with topic.
+
+CHEM 385. Honors Thesis (.5). Comprehensive written critical evaluation of a topic or original research.
+This course may partially fulfll the requirements for departmental honors. (CP) Prerequisite: consent of the
+department chair.
+
+CHEM 390. Special Project (.25 - 1). Research work under faculty supervision. Prerequisite: sophomore
+standing.
+
+CHEM 395. Teaching Assistant (.25, .5). Work with faculty in classroom and laboratory instruction. Graded
+credit/no credit.
+
+CHEM 396. Teaching Assistant Research (.25, .5). Course, laboratory, and curriculum development projects
+with faculty.
+
+Cognitive Science
+The cognitive science major provides a program for the interdisciplinary study of mind, drawing on the
+content and methodologies of several other disciplines. The major combines the study of cognitive
+psychology, the philosophy of mind, theories of computation, and various other core and satellite disciplines
+to enable students to explore important topics such as the nature and structure of mind, the possibility of
+artifcial intelligence, and the relationship between minds and brains or minds and bodies.
+
+Students who choose the cognitive science major or minor experience both the depth and breadth of the
+feld through focused clusters of courses on human nature, computation, and more. Students who study
+cognitive science will graduate with training in critical thinking, computation, and social science approaches,
+all of which position them for a wide range of post-graduate options.
+
+Cognitive Science Faculty
+• Tom Stojsavljevic
+• Ben Stucky
+• Matthew Tedesco
+• Robin Zebrowski
+Cognitive Science Major (11.5 or 12 units)
+1. Six core courses: Cognitive Science 101, 205; Philosophy 110 or 115; Philosophy/Cognitive Science 241;
+Psychology 100; and Psychology/Cognitive Science 240.
+2. One unit chosen from the following language-related courses: Writing 215; Education and Youth
+
+Studies 246 (when it is 1 unit), 276 (when the topic is bi-lingual education); Greek, Latin, and Ancient
+Mediterranean Studies 121, 141; Chinese 105; French 105; Japanese 105; Spanish 110; Performing and
+Applied Arts 170; or other courses in consultation with advisor.
+3. One unit chosen from the following computational courses: Computer Science 111, 170 (when relevant,
+with approval of advisor), 175, 204, 245; Data Science and Data Analytics 210 (.5) and 215 (.5), 345;
+Physics 220; Philosophy 100. Other courses possible in consultation with advisor.
+4. One unit chosen from the following courses ofering theories of humanity: Anthropology 100, 120;
+Health and Society 301; Performing and Applied Arts 276, 288; Philosophy 200, 205, 234, 240 (when
+relevant, with approval of advisor), 250, 260, 275; Philosophy/Political Science 280; Psychology 250,
+252. Other courses possible in consultation with advisor.
+
+5. One unit chosen from the following courses examining behavior of systems at diferent levels of
+description: Anthropology 310; Biology 237, 257, 289, 340; Chemistry 117, 150; Education and Youth
+Studies 151; Environmental Studies/Sociology 271; Health and Society 140; Philosophy 285; Physics
+and Astronomy 102; Political Science/Psychology 207; Psychology 210, 215, 225, 230, 235, 260, 265;
+Sociology 216, 218, 225, 231. Other courses possible in consultation with advisor.
+6. One of the following options from among statistics oferings: Anthropology 240; Biology 247; Health
+and Society/Political Science 201; Mathematics 205, 310; both Psychology 161 and 162; Sociology 205
+(and 211 recommended but not required). Students intending to pursue graduate study in cognitive
+science are strongly advised to take the Psychology 161 and 162 sequence. Other courses possible in
+consultation with advisor.
+7. One capstone course, chosen in consultation with advisor: Cognitive Science 350 (strongly
+recommended), 380 (honors thesis ofered by invitation only), Data Science and Data Analytics 385,
+Interdisciplinary Studies 310, Philosophy 385 (with permission of instructor and advisor), Psychology
+285 (with permission of instructor and advisor. Other courses possible in consultation with advisor.
+8. Honors in cognitive science: Students with a 3.7 GPA or above in courses in the major and a 3.5 GPA
+or above overall may apply at the end of the junior year to be considered honors students, who will
+complete a thesis with an appropriate topic.
+
+Cognitive Science Minor, Computer Science Concentration (6 units)
+1. Two core Cognitive Science units: Cognitive Science 101, 205.
+2. Two required Computer Science units: Computer Science 111, 204.
+3. Two elective units for computer science breadth: Computer Science 170 (when relevant, with approval
+of advisor), 175, 245, 270 (when relevant, with approval of advisor), 315, 347; Data Science and Data
+Analytics 210 (.5) and 215 (.5), or 345.
+
+4.
+Cognitive Science Minor, Philosophy Concentration (6 units)
+1. Two core Cognitive Science units: Cognitive Science 101, 205.
+2. Two required Philosophy units: Philosophy 110 or 115; Philosophy/Cognitive Science 241.
+3. Two elective units chosen from the following courses for philosophical breadth: Philosophy 100, 205,
+240 (when relevant, with approval of advisor), 250.
+Cognitive Science Minor, Psychology Concentration (6 units)
+1. Two core Cognitive Science units: Cognitive Science 101, 205.
+2. Two required Psychology units: Psychology 100; Psychology/Cognitive Science 240.
+3. Two elective units for psychological breadth (2 units):
+a. One chosen from Anthropology 310; Biology 340, and one chosen from Psychology 210, 215, 230,
+235, 260, 265 OR
+b. Two chosen from Psychology 210, 215, 230, 235, 260, 265.
+
+Conditions for Cognitive Science Minors
+1. A student may double-count no more than two courses with any other major or minor except in
+consultation with their advisor.
+2. No student majoring in the area of the concentration may choose that concentration area to minor in. A
+student may still choose any of the other minor concentration areas. (For example, a student majoring
+in philosophy may not choose to minor in cognitive science with a philosophy concentration, but this
+student may minor in cognitive science with a psychology or computer science concentration.)
+
+Cognitive Science Courses
+COGS 101. Introduction to Cognitive Science (1). This course asks questions about how humans think. We
+examine how emotion has been considered distinct from cognition, as well as the relationship between
+language and thought. Some time is spent looking at the diferences between perception, action, and
+rationality, while examining the role of social interaction in the development of our minds. Additionally,
+the class looks at the evolution of cognition, as well as the possibility that a mind could be realized on
+something other than a brain (and what the diference between the two might be). Cognitive science is
+an interdisciplinary feld, and as such students are introduced to perspectives and methodologies from
+philosophy, psychology, biology, linguistics, and computer science. Ofered each year.
+
+COGS 205. Topics in Cognitive Science (1). This course is an introduction to cognitive science through
+special topics. These may include discussions of artifcial intelligence at either the theory and modeling level
+or at the level of societal and ethical impacts of the technology. Other topics covered may include cyborg
+technologies that examine the processes of interaction between mind, body, and environment, or cognitive
+robotics work that examines the ways structure, environment, and underlying programming generate
+behavior and aberrations in behavior. Students look closely at primary and secondary source material, and
+sometimes engage with hands-on demonstrations of the technologies. May be repeated for credit if topic
+is diferent. Prerequisites: Cognitive Science 101, Psychology 100, Philosophy 110 or 115, or permission of
+instructor.
+
+COGS 240. Memory and Cognition (1). This course examines some of the mental processes involved in
+human behavior. General issues to be covered include the accuracy of memory, problem solving, decision
+making, and the rationality of thought processes. Specifc topics such as selective attention, subliminal
+perception, neurological bases of memory, and efects of aging will be discussed. (3B) (Also listed as
+Psychology 240.) Ofered occasionally. Prerequisite: Psychology 100.
+
+COGS 241. Minds, Brains, and Bodies (1). The human mind may be the last great mystery of the physical
+world–the thing that sets us apart from other animals and seems to defy physical law. In fact, consciousness
+holds the special title of “The Hard Problem.” Traditional philosophy of mind examines the mind-body
+problem, usually as it has been conceived and explored through analytic philosophy. This course looks at
+those texts that have defned and shaped the feld historically, while including texts from other philosophical
+traditions that have only recently changed how the mind-body problem is understood. These include
+texts from phenomenologists, pragmatists, and linguists, among others. We survey many authors and
+perspectives, while remaining grounded in the classical texts of the feld. (5T) (Also listed as Philosophy 241.)
+Ofered even years, spring semester. Prerequisite: Philosophy 110 or 115.
+
+COGS 350. Capstone Reading Group (1). This course provides advanced students in cognitive science an
+opportunity to engage in a small, seminar-style reading group, introducing advanced topics and topics of
+more immediate concern. It also gives students a chance to think about what they will do with a cognitive
+science major after Beloit, including discussions and assignments around graduate school, industry work, or
+other related careers. This course provides multiple opportunities for students to take control of the syllabus
+and structure the discussions through their leadership. (CP) Prerequisites: preference given to junior and
+senior majors and minors.
+
+COGS 380. Senior Thesis (.5, 1). Independent research by a superior student under faculty supervision. (CP)
+Prerequisite: Senior standing, invitation only.
+
+COGS 385. Advanced Topics in Cognitive Science (.5, 1). This course examines advanced topics in cognitive
+science that refect the interests and expertise of the instructor. This course serves as a capstone course for
+cognitive science majors and minors. It is open to others with the proper prerequisites. May be repeated for
+credit if topic is diferent. (CP) Prerequisite: Cognitive Science 101 and one other Cognitive Science course.
+Other prerequisites may be required depending on topics.
+
+COGS 390. Special Project (.25 - 1). Individual study or research under close faculty supervision.
+Prerequisite: sophomore standing.
+
+COGS 395. Teaching Assistant (.25, .5). Work with faculty in classroom instruction. Graded credit/no credit.
+
+Computer Science
+Computer science focuses on how to create a model for a real-world situation, how to represent that model
+inside a computer, and how to devise mechanizable techniques to manipulate that model. Such models and
+techniques are used to understand or investigate the situation or to solve real-world problems.
+
+Introductory courses prepare a student to do such problem-solving in any domain. Students pursuing a
+computer science major learn more advanced techniques for such modeling and also focus on models
+specifc to computer science and computer technology. Upper-level elective courses prepare students for
+graduate-level study and for vocations in various computer felds.
+
+Computer Science Faculty
+• Eyad Haj Said
+• Katherine Harris
+• Sohaib Kiani
+• Tom Stojsavljevic
+• Ben Stucky
+• Robin Zebrowski
+
+Computer Science Major (12 units)
+1. Nine departmental units: Computer Science 111, 175, 204, 245, 315, 335, 347, 367, and 377.
+2. One elective unit chosen from Data Science & Data Analytics 345 and 385, Mathematics 300, Cognitive
+Science 205 (when topic is appropriate and approved in advance by the department chair), or any other
+course approved in advance by the department chair and advisor.
+
+3. Two supporting units: Mathematics 110 and 160.
+4. Students planning to attend graduate school in computer science should consider taking more
+mathematics course, such as Probability and Statistics I (MATH 205), Linear Algebra (MATH 275), or
+Real Analysis (MATH 340), and should consult with an advisor for additional study that should be done.
+5. Successful graduates of the program should be able to speak and write efectively in order to
+communicate important ideas to diverse audiences. The program helps students develop these
+capabilities in the context of computer science through the progression in its courses. In written
+communication, students are expected to document their programming work via both internal and
+external documentation. In oral communication, students are expected to present all aspects of their
+work and efectively communicate in teams. In all forms of communication, students are expected to
+be able to address both technical and general audiences. The capstone experiences ofer an important
+opportunity to solidify and extend these skills as students prepare for their future work.
+6. Students majoring in computer science may choose to receive the Bachelor of Science degree rather
+than the Bachelor of Arts degree by completing a minimum of 4 units in biology, chemistry, geology,
+and/or physics.
