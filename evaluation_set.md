@@ -1,4 +1,4 @@
- # 25 Gold Questions 
+ # 26 Gold Questions 
 ## 1. What weapons are prohibited on campus?
    
 **Answer:** Prohibited weapons include but are not limited to: firearms (including those carried under a concealed
