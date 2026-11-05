@@ -198,13 +198,13 @@ cc_chapter1_skill_requirements
 ## 20. What is the purpose of Judicial Appeals Board ? 
 
 **Answer:** 
-● To represent the campus community—students, faculty and staff—by reviewing cases of
+1. To represent the campus community—students, faculty and staff—by reviewing cases of
 student misconduct brought to the committee on appeal from an Adjudicator’s decision,
 typically the Director of Residence Life or their designee.
-● To espouse the educational purpose of our judicial system as it deliberates and makes
+2. To espouse the educational purpose of our judicial system as it deliberates and makes
 decisions.
-● To give students accused of violating College policies a fair appeal review.
-● The standard to be applied by the Board is whether it is “more likely than not” that a
+3.  To give students accused of violating College policies a fair appeal review.
+4. The standard to be applied by the Board is whether it is “more likely than not” that a
 violation has occurred. The decision of the Judicial Appeals Board is final and may not be
 appealed.
 
@@ -225,10 +225,13 @@ hb_section3_k_intro
 ## 22. What are the two primary functions of the mail center ? 
 
 **Answer:** 
-The mail center serves two primary functions: (1) as a central mail distribution center for the
+The mail center serves two primary functions: 
+(1) as a central mail distribution center for the
 U.S./International mail and packages delivered to campus. As such, regular postal rules apply to all
 stamped mail. Any questionable stamped mail will follow the U.S. postal procedures for follow up
-inquiry; (2) as a College service for inter-campus mail. Incidents reported to mail center staff or by mail
+inquiry; 
+
+(2) as a College service for inter-campus mail. Incidents reported to mail center staff or by mail
 center staff will follow the normal campus investigation/disciplinary process.
 
 __Document ID:__
