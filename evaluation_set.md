@@ -80,7 +80,7 @@ cc_acedemic_calanders
 __Document ID:__
 hb_section2_a
 
-## 9. Can the college refuse transcripts ? 
+## 10. Can the college refuse transcripts ? 
 
 **Answer:** Yes, Beloit College reserves the right to withhold transcripts if there is an unresolved disciplinary action
 against the student.
@@ -88,7 +88,7 @@ against the student.
 __Document ID:__
 hb_section3_a4
 
-## 10. Can a dog be an ESA ? 
+## 11. Can a dog be an ESA ? 
 
 **Answer:** An ESA can be a dog, cat, small bird, rabbit, hamster, gerbil, fish, turtle or other small,
 domesticated animal that is traditionally kept in the home
@@ -97,7 +97,7 @@ __Document ID:__
 hb_section3_f1
 
 
-## 11. What are the 100 level sociology classes and their descriptions ?
+## 12. What are the 100 level sociology classes and their descriptions ?
 
 **Answer:** 
 SOCI 100. Introduction to Sociology (1). Examination of the major sociological paradigms, theories, and
@@ -118,14 +118,14 @@ with a comparative research paper and student presentations. (3B) Ofered occasio
 __Document ID:__ 
 cc_chapter2_sociology
 
-## 12. Who is the Community Connections Faculty ? 
+## 13. Who is the Community Connections Faculty ? 
 
 **Answer:**  Sylvia López
 
 __Document ID:__ 
 cc_chapter3_community_connections
 
-## 13. What are the requirements for Japanese Minor ?
+## 14. What are the requirements for Japanese Minor ?
 
 **Answer:**
 1. Six departmental units in Japanese at the 105 level or above.
@@ -140,14 +140,14 @@ minor.
 __Document ID:__ 
 cc_chapter2_modern_languages_&_literatures
 
-## 14. How many units is a Greek and Latin Studies Major ? 
+## 15. How many units is a Greek and Latin Studies Major ? 
 
 **Answer:** 12 units 
 
 __Document ID:__
 cc_chapter2_glam
 
-## 15. What are all the Business and Economic manjors ? 
+## 16. What are all the Business and Economic manjors ? 
 
 **Answer:**
 Business Management Major (11 units)
@@ -162,14 +162,14 @@ Finance Dual Degree Program
 __Document ID:__
 cc_chapter2_index
 
-## 16. What is the definiton of a student ? 
+## 17. What is the definiton of a student ? 
 
 **Answer:** A student is any person who attends or has attended the College.
 
 __Document ID:__
 hb_section3_a4
 
-## 17. What is the appeal process for summer and vacation periods ?
+## 18. What is the appeal process for summer and vacation periods ?
 
 **Answer:** During the summer and vacation periods, including New Student Orientation, the first week or last
 week of classes, and finals week each term, the Judicial Appeals Board will not be convened. A
@@ -183,7 +183,7 @@ classes are in session.
 __Document ID:__
 hb_section4
 
-## 18. What degrees are offered at Beloit College ? 
+## 19. What degrees are offered at Beloit College ? 
 
 **Answer:**  The Bachelor of Arts and Bachelor of Science degrees are conferred by Beloit College upon completion of
 the prescribed requirements.
@@ -195,7 +195,7 @@ science outside their major department.
 __Document ID:__ 
 cc_chapter1_skill_requirements
 
-## 19. What is the purpose of Judicial Appeals Board ? 
+## 20. What is the purpose of Judicial Appeals Board ? 
 
 **Answer:** 
 ● To represent the campus community—students, faculty and staff—by reviewing cases of
@@ -211,7 +211,7 @@ appealed.
 __Document ID:__ 
 hb_section4
 
-## 20. What are the responsibilities of College security staff ?
+## 21. What are the responsibilities of College security staff ?
 
 **Answer:** 
 The responsibilities of College security staff are:
@@ -222,7 +222,7 @@ The responsibilities of College security staff are:
 __Document ID:__
 hb_section3_k_intro
 
-## 21. What are the two primary functions of the mail center ? 
+## 22. What are the two primary functions of the mail center ? 
 
 **Answer:** 
 The mail center serves two primary functions: (1) as a central mail distribution center for the
@@ -234,7 +234,7 @@ center staff will follow the normal campus investigation/disciplinary process.
 __Document ID:__
 hb_section3_h
 
-## 22. Are space heaters in residence spaces ?
+## 23. Are space heaters in residence spaces ?
 
 **Answer:**  Space heaters are not allowed in residence spaces due to the fire danger they
 present. If your room is too cold please fill out a work order (Asset Essentials) request via the Portal or
@@ -243,14 +243,14 @@ contact your RA for assistance.
 __Document ID:__
 hb_section3_g2
 
-## 23. Are Air conditioning units allowed on campus ? 
+## 24. Are Air conditioning units allowed on campus ? 
 
 **Answer:**  Air conditioning units may not be installed in any residence space
 
 __Document ID:__ 
 hb_section3_g2
 
-## 24. What is the Summer Tuition for Special Projects and Internships ? 
+## 25. What is the Summer Tuition for Special Projects and Internships ? 
 
 **Answer:** Students taking internships and/or special project courses for 0.25 to 1.0 units during the summer will be
 assessed an administrative charge for each internship or special project. This option may be used for up to a
@@ -261,18 +261,10 @@ Internship: $617 (2025)
 __Document ID:__ 
 cc_chapter5_tuition
 
-## 25. Who are the Morse Library Staff ? 
+## 26. Who are the Morse Library Staff ? 
 
 **Answer:**
-Morse Library Staf
-• Adam Dinnes
-• Tristan Draper
-• Kallie Leonard
-• Shannon Nordgren
-• Diane Ray
-• Cindy Rhines
-• Mary Elizabeth Schiavone
-• Ted Wilder 
+Morse Library Staff: Adam Dinnes, Tristan Draper, Kallie Leonard, Shannon Nordgren, Diane Ray, Cindy Rhines, Mary Elizabeth Schiavone, Ted Wilder 
 
 __Document ID:__ 
 cc_chapter4_morse_library
