@@ -97,3 +97,54 @@ __Document ID:__
 hb_section3_f1
 
 
+## 11. What are the 100 level sociology classes and their descriptions ?
+
+**Answer:** 
+SOCI 100. Introduction to Sociology (1). Examination of the major sociological paradigms, theories, and
+processes shaping the relationship between society and individuals. Elements emphasized include the
+following: social structure, institutions and roles, culture, sex and gender, social class and stratifcation, social
+change, methodology, race and ethnicity, socialization. The goal is to develop the sociological imagination,
+which is an analytical perspective examining the interplay between structure and agency. (Content varies
+by instructor for each section. Consult instructor for further information.) (3B) Ofered each semester.
+Prerequisite: frst or second year standing or consent of instructor.
+
+SOCI 150. Practical Approaches to Social Problems (1). Examination of various means of addressing current
+social problems, both in the United States and globally, including, but not limited to: advocacy, non-violent
+direct action, legislative reform, economic development, charitable giving, and community organizing. The issues studied include refugee resettlement, welfare, human rights, civil rights, torture, substance abuse,
+globalization, and hunger, as well as those chosen by class participants. The course is taught utilizing
+academic texts, popular media, guest speakers, feld trips, and lecture and discussion. The class will conclude
+with a comparative research paper and student presentations. (3B) Ofered occasionally. 
+
+__Document ID:__ 
+cc_chapter2_sociology
+
+## 12. Who is the Community Connections Faculty ? 
+
+**Answer:**  Sylvia López
+
+__Document ID:__ 
+cc_chapter3_community_connections
+
+## 13. What are the requirements for Japanese Minor ?
+
+**Answer:**
+1. Six departmental units in Japanese at the 105 level or above.
+2. With the pre-approval of the department, students may apply 2 units of language credit earned while
+studying abroad toward the minor.
+3. No more than 2 units of college transfer credit may apply toward the minor.
+4. At least 4 of the language units counted toward the minor must be taken at Beloit College. Exceptions
+must be approved by the department.
+5. With the pre-approval of the department, students may count 1 unit of literature in translation toward the
+minor. 
+
+__Document ID:__ 
+cc_chapter2_modern_languages_&_literatures
+
+## 14. How many units is a Greek and Latin Studies Major ? 
+
+**Answer:** 12 units 
+
+__Document ID:__
+cc_chapter2_glam
+
+
