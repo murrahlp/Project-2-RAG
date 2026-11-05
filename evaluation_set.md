@@ -147,4 +147,133 @@ cc_chapter2_modern_languages_&_literatures
 __Document ID:__
 cc_chapter2_glam
 
+## 15. What are all the Business and Economic manjors ? 
+
+**Answer:**
+Business Management Major (11 units)
+Economics Major (13 units)
+Quantitative Economics Major (13 units)
+Entrepreneurship Minor (6 units)
+Finance Minor (6 units)
+Marketing Minor (6 units)
+Sports Management Minor (6 units)
+Finance Dual Degree Program 
+
+__Document ID:__
+cc_chapter2_index
+
+## 16. What is the definiton of a student ? 
+
+**Answer:** A student is any person who attends or has attended the College.
+
+__Document ID:__
+hb_section3_a4
+
+## 17. What is the appeal process for summer and vacation periods ?
+
+**Answer:** During the summer and vacation periods, including New Student Orientation, the first week or last
+week of classes, and finals week each term, the Judicial Appeals Board will not be convened. A
+student may appeal a Hearing Officer’s decision to the Dean of Students for all non-Title IX
+discipline. All appeals must be in writing and submitted within three (3) working days of being
+notified of a decision by the Hearing Officer. The appeal will be considered solely by the specified
+judicial office above and their decision is final. All disciplinary sanctions will apply, as they do when
+classes are in session.
+
+
+__Document ID:__
+hb_section4
+
+## 18. What degrees are offered at Beloit College ? 
+
+**Answer:**  The Bachelor of Arts and Bachelor of Science degrees are conferred by Beloit College upon completion of
+the prescribed requirements.
+The degree normally awarded is that of Bachelor of Arts. Those whose major feld of concentration is in the
+natural sciences (biology, biochemistry, chemistry, geology, and physics) may elect to receive the Bachelor
+of Science degree if they present a minimum of 4 units in science and/ or mathematics and/or computer
+science outside their major department.
+
+__Document ID:__ 
+cc_chapter1_skill_requirements
+
+## 19. What is the purpose of Judicial Appeals Board ? 
+
+**Answer:** 
+● To represent the campus community—students, faculty and staff—by reviewing cases of
+student misconduct brought to the committee on appeal from an Adjudicator’s decision,
+typically the Director of Residence Life or their designee.
+● To espouse the educational purpose of our judicial system as it deliberates and makes
+decisions.
+● To give students accused of violating College policies a fair appeal review.
+● The standard to be applied by the Board is whether it is “more likely than not” that a
+violation has occurred. The decision of the Judicial Appeals Board is final and may not be
+appealed.
+
+__Document ID:__ 
+hb_section4
+
+## 20. What are the responsibilities of College security staff ?
+
+**Answer:** 
+The responsibilities of College security staff are:
+1. The protection of persons.
+2. The protection of property.
+3. The protection of the integrity of the College.
+
+__Document ID:__
+hb_section3_k_intro
+
+## 21. What are the two primary functions of the mail center ? 
+
+**Answer:** 
+The mail center serves two primary functions: (1) as a central mail distribution center for the
+U.S./International mail and packages delivered to campus. As such, regular postal rules apply to all
+stamped mail. Any questionable stamped mail will follow the U.S. postal procedures for follow up
+inquiry; (2) as a College service for inter-campus mail. Incidents reported to mail center staff or by mail
+center staff will follow the normal campus investigation/disciplinary process.
+
+__Document ID:__
+hb_section3_h
+
+## 22. Are space heaters in residence spaces ?
+
+**Answer:**  Space heaters are not allowed in residence spaces due to the fire danger they
+present. If your room is too cold please fill out a work order (Asset Essentials) request via the Portal or
+contact your RA for assistance.
+
+__Document ID:__
+hb_section3_g2
+
+## 23. Are Air conditioning units allowed on campus ? 
+
+**Answer:**  Air conditioning units may not be installed in any residence space
+
+__Document ID:__ 
+hb_section3_g2
+
+## 24. What is the Summer Tuition for Special Projects and Internships ? 
+
+**Answer:** Students taking internships and/or special project courses for 0.25 to 1.0 units during the summer will be
+assessed an administrative charge for each internship or special project. This option may be used for up to a
+total of two units.
+Special Projects: $617 (2025)
+Internship: $617 (2025) 
+
+__Document ID:__ 
+cc_chapter5_tuition
+
+## 25. Who are the Morse Library Staff ? 
+
+**Answer:**
+Morse Library Staf
+• Adam Dinnes
+• Tristan Draper
+• Kallie Leonard
+• Shannon Nordgren
+• Diane Ray
+• Cindy Rhines
+• Mary Elizabeth Schiavone
+• Ted Wilder 
+
+__Document ID:__ 
+cc_chapter4_morse_library
 
