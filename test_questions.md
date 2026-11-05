@@ -45,9 +45,9 @@ of their permanent academic records at any time; however, transcripts will not b
 student’s authorizing signature and approval from the Accounting Office. Requests for transcripts may be
 submitted online using the instructions found at www.beloit.edu/ofces/ registrar/transcripts-diplomasverifcation-letters/. A fee is charged for each transcript issued or Beloit College transcripts are available through the National Student Clearinghouse (NSC). (Course Catalog and Handbook)
 
-## 8. Can I graduate with a 1.6 gpa ?
+## 8. How low can my gpa get before I lose scholarships?
 
-A. No, Beloit College  requires a 2.0 GPA or higher.
+A.  Must Maintain a 2.0 cumlative gpa (course catalog) 
 
 ## 9. is Introduction to Object-Oriented Programming a prerequisite for Web Design ?
 
