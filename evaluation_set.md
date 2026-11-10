@@ -40,7 +40,7 @@ __Document ID:__
 hb_section3_g2
 
 
-## 5. Who are the computer science faculty ?
+## 5. Who are the computer science major/minor faculty ?
     
 **Answer:**  Eyad Haj Said, Katherine Harris, Sohaib Kiani, Tom Stojsavljevic, Ben Stucky, Robin Zebrowski 
 
@@ -195,21 +195,13 @@ science outside their major department.
 __Document ID:__ 
 cc_chapter1_skill_requirements
 
-## 20. What is the purpose of Judicial Appeals Board ? 
+## 20. Who are the Critical Identity Studies Faculty ?
 
 **Answer:** 
-1. To represent the campus community—students, faculty and staff—by reviewing cases of
-student misconduct brought to the committee on appeal from an Adjudicator’s decision,
-typically the Director of Residence Life or their designee.
-2. To espouse the educational purpose of our judicial system as it deliberates and makes
-decisions.
-3.  To give students accused of violating College policies a fair appeal review.
-4. The standard to be applied by the Board is whether it is “more likely than not” that a
-violation has occurred. The decision of the Judicial Appeals Board is final and may not be
-appealed.
+Natalie Gummer, Sonya Maria Johnson, Lisl Wa
 
 __Document ID:__ 
-hb_section4
+cc_chapter2_critical_identity_studies
 
 ## 21. What are the responsibilities of College security staff ?
 
@@ -271,4 +263,38 @@ Morse Library Staff: Adam Dinnes, Tristan Draper, Kallie Leonard, Shannon Nordgr
 
 __Document ID:__ 
 cc_chapter4_morse_library
+
+ ## 27. Best places to live off campus ?
+
+ **Answer:** 
+ No answer
+
+ __Document ID:__ 
+ none
+
+ ## 28. Does the resident building Chapin has a good vibe? 
+
+ **Answer:** 
+ No answer
+
+ __Document ID:__ 
+ none
+
+
+## 29. Does the Residential Life Director answer emails from parents ? 
+
+ **Answer:** 
+ No answer
+
+ __Document ID:__ 
+ none
+
+ ## 30. Can I use a macbook in my Data Anayltics class ? 
+
+ **Answer:** 
+ No answer
+
+ __Document ID:__ 
+ none
+
 
