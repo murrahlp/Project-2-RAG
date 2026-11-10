@@ -97,26 +97,22 @@ __Document ID:__
 hb_section3_f1
 
 
-## 12. What are the 100 level sociology classes and their descriptions ?
+## 12. How to get Departmental Honors in Data Science & Data Analytics?
 
 **Answer:** 
-SOCI 100. Introduction to Sociology (1). Examination of the major sociological paradigms, theories, and
-processes shaping the relationship between society and individuals. Elements emphasized include the
-following: social structure, institutions and roles, culture, sex and gender, social class and stratifcation, social
-change, methodology, race and ethnicity, socialization. The goal is to develop the sociological imagination,
-which is an analytical perspective examining the interplay between structure and agency. (Content varies
-by instructor for each section. Consult instructor for further information.) (3B) Ofered each semester.
-Prerequisite: frst or second year standing or consent of instructor.
-
-SOCI 150. Practical Approaches to Social Problems (1). Examination of various means of addressing current
-social problems, both in the United States and globally, including, but not limited to: advocacy, non-violent
-direct action, legislative reform, economic development, charitable giving, and community organizing. The issues studied include refugee resettlement, welfare, human rights, civil rights, torture, substance abuse,
-globalization, and hunger, as well as those chosen by class participants. The course is taught utilizing
-academic texts, popular media, guest speakers, feld trips, and lecture and discussion. The class will conclude
-with a comparative research paper and student presentations. (3B) Ofered occasionally. 
+Students may apply to be considered for departmental honors if they have:
+1. Academic Achievement: The candidate must demonstrate a high academic performance across the
+college (Cumulative GPA of at least 3.5) and in DSDA (at least 3.5 GPA in major)
+2. Intention to apply: The candidate must submit a written intention to apply for honors, including the list
+of courses that satisfy the requirements for the major to the chair of the DSDA program no later than
+the last day to add one-unit courses for the last on-campus term as a regular full-time student.
+3. Project: An honors student in DSDA either engages in original research or exposits and demonstrates
+thorough knowledge of the feld done by others. The project may be a summer research experience or
+similar work done outside of the curriculum.
+Presentation: An honors student in DSDA must present their work to a public audience on- or of-campus
 
 __Document ID:__ 
-cc_chapter2_sociology
+cc_chapter2_data_science_&_analytics
 
 ## 13. Who is the Community Connections Faculty ? 
 
@@ -162,12 +158,13 @@ Finance Dual Degree Program
 __Document ID:__
 cc_chapter2_index
 
-## 17. What is the definiton of a student ? 
+## 17. Does Beloit College have an Engineering Degree ? 
 
-**Answer:** A student is any person who attends or has attended the College.
+**Answer:** Yes, The dual-degree cooperative engineering program (sometimes also referred to as a “3-2” program)
+combines a liberal arts education with a professional engineering education.
 
 __Document ID:__
-hb_section3_a4
+cc_chapter2_engineering
 
 ## 18. What is the appeal process for summer and vacation periods ?
 
