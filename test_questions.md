@@ -54,4 +54,6 @@ A. Yes, a dog can be an emotional support animal (handbook)
 
 A. No, the only prerequisite is to be junior standing (Course Catalog)
 
+# One that your corpus cannot answer
+
 ## 10. Best places to live off campus ?
