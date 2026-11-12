@@ -1,1 +1,2 @@
-
+# Executive Summary
+This repository gives a model that answers questions for Beloit College's Course Catalog and Student Handbook. The files combine for a process of separating the documents into sections based on the indices of the two documents, further splitting of those sections by word count, and then giving numeric scores to those sections based on analyzing those sections and the wording of the question asked. The model then returns an answer based on those scores, giving references to a label for the section it used as reference for the answer. If the model cannot find any relevant information, it gives a statement that it cannot answer. The model is tested using a set of 30 training questions for calibration, the asked a series of 10 test questions.
